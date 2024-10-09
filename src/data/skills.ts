@@ -2,62 +2,62 @@ import { skill } from "../types";
 
 export const skillData: skill[] = [
     {
-        imgSrc: '/images/skills/typescript.svg',
+        imgSrc: './images/skills/typescript.svg',
         label: 'Typescript',
         desc: 'Interaction'
     },
     {
-        imgSrc: '/images/skills/javascript.svg',
+        imgSrc: './images/skills/javascript.svg',
         label: 'JavaScript',
         desc: 'Interaction'
     },
     {
-        imgSrc: '/images/skills/react.svg',
+        imgSrc: './images/skills/react.svg',
         label: 'React',
         desc: 'Framework'
     },
     {
-        imgSrc: '/images/skills/nodejs.svg',
+        imgSrc: './images/skills/nodejs.svg',
         label: 'NodeJS',
         desc: 'Web Server'
     },
     {
-        imgSrc: '/images/skills/expressjs.svg',
+        imgSrc: './images/skills/expressjs.svg',
         label: 'ExpressJS',
         desc: 'Node Framework'
     },
     {
-        imgSrc: '/images/skills/mongodb.svg',
+        imgSrc: './images/skills/mongodb.svg',
         label: 'MongoDB',
         desc: 'Database'
     },
     {
-        imgSrc: '/images/skills/postgress.svg',
+        imgSrc: './images/skills/postgress.svg',
         label: 'postgress',
         desc: 'Database'
     },
     {
-        imgSrc: '/images/skills/css3.svg',
+        imgSrc: './images/skills/css3.svg',
         label: 'CSS',
         desc: 'User Interface'
     },
     {
-        imgSrc: '/images/skills/tailwindcss.svg',
+        imgSrc: './images/skills/tailwindcss.svg',
         label: 'TailwindCSS',
         desc: 'User Interface'
     },
     {
-        imgSrc: '/images/skills/python.svg',
+        imgSrc: './images/skills/python.svg',
         label: 'Python',
         desc: 'Programming Language'
     },
     {
-        imgSrc: '/images/skills/java.svg',
+        imgSrc: './images/skills/java.svg',
         label: 'java',
         desc: 'Programming Language'
     },
     {
-        imgSrc: '/images/skills/git.svg',
+        imgSrc: './images/skills/git.svg',
         label: 'git',
         desc: 'Version Control'
     },

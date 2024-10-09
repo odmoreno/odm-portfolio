@@ -3,17 +3,17 @@ import { social } from "../types";
 export const socialLinks: social[] = [
     {
         href: 'https://github.com/odmoreno',
-        icon: '/images/social/github.svg',
+        icon: './images/social/github.svg',
         alt: 'GitHub'
     },
     {
         href: 'https://www.linkedin.com/in/odmoreno/',
-        icon: '/images/social/linkedIn.svg',
+        icon: './images/social/linkedIn.svg',
         alt: 'linkedIn'
     },
     {
         href: 'https://www.instagram.com/oscarpol95/',
-        icon: '/images/social/instagram.svg',
+        icon: './images/social/instagram.svg',
         alt: 'Instagram'
     }
 ];
