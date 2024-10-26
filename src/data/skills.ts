@@ -17,6 +17,11 @@ export const skillData: skill[] = [
         desc: 'Framework'
     },
     {
+        imgSrc: './images/skills/next.svg',
+        label: 'Next',
+        desc: 'Framework'
+    },
+    {
         imgSrc: './images/skills/nodejs.svg',
         label: 'NodeJS',
         desc: 'Web Server'
@@ -33,8 +38,13 @@ export const skillData: skill[] = [
     },
     {
         imgSrc: './images/skills/postgress.svg',
-        label: 'postgress',
+        label: 'Postgress',
         desc: 'Database'
+    },
+    {
+        imgSrc: './images/skills/prisma.svg',
+        label: 'Prisma',
+        desc: 'Orm'
     },
     {
         imgSrc: './images/skills/css3.svg',

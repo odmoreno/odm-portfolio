@@ -10,6 +10,12 @@ export const works: work[] = [
         projectLink: 'http://200.10.150.57/lakvis/'
     },
     {
+        imgSrc: './images/projectsme/project-r5.png',
+        title: 'Quick Server App',
+        tags: ['React', 'Next', 'Prisma', 'Tailwind', 'Typescript', 'Zod'],
+        projectLink: 'https://quick-serve-eight.vercel.app/order/cafe'
+    },
+    {
         imgSrc: './images/projectsme/project-r1.png',
         title: 'Cocktail Compass',
         tags: ['React', 'React-Router', 'Zustand', 'Zod', 'Typescript'],
